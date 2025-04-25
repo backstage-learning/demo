@@ -8,8 +8,8 @@ metadata:
       icon: dashboard
   annotations:
     backstage.io/techdocs-ref: dir:.
-    'backstage.io/kubernetes-id': demo
-    'backstage.io/kubernetes-namespace': demo
+    backstage.io/kubernetes-id: demo
+    backstage.io/kubernetes-namespace: demo
 spec:
   type: service
   lifecycle: experimental
