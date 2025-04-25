@@ -9,7 +9,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: demo
-    backstage.io/kubernetes-namespace: demo
+    backstage.io/kubernetes-namespace: default
 spec:
   type: service
   lifecycle: experimental
